@@ -1,16 +1,24 @@
-## Hi there 👋
+# Abiola Oduwole | Portfolio
 
-<!--
-**abiolaoduwole/Abiolaoduwole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Virtual Assistant, AI & Automation and Customer/Administrative Support, based in Lagos, Nigeria.
 
-Here are some ideas to get you started:
+**Live portfolio:** https://abiolaoduwole.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+I help businesses and professionals with administrative support, email management, customer support and workflow automation. I hold a B.Sc. in Social Work from the University of Lagos, and I've worked in operations, administration and client services.
+
+## What's in the portfolio
+- Six video walkthroughs of automations built in Zapier and Make.com
+- My experience and education
+- My services and the tools I work with
+- Four certifications in virtual assistance and AI and automation
+
+## Certifications
+- Executive Virtual Assistant, Jobberman (She Leads Africa), December 2025
+- Professional Virtual Assistant, AQskill, April 2026
+- General Virtual Assistant, Vsavvy Academy, June 2026
+- AI and Automation, Tech Sphere Academy, July 2026
+
+## Contact
+- Email: Abiolaodus01@gmail.com
+- WhatsApp: +234 705 994 2740
